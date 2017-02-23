@@ -1,0 +1,121 @@
+header{
+	height: 100px;
+	padding-top: 20px;
+}
+
+header img{
+	width: 200px;
+	height: 65px;
+}
+
+nav {
+	display: inline-block;
+	margin-left: 100px;
+	font-size: 24px;
+	color: blue;
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: on;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 30px;
+}
+
+section{
+	height: 520px;
+	background-color: #E6E6E6;
+	padding-top: 30px;
+}
+
+section img {
+	display: inline-block;
+}
+
+nav, img {
+	vertical-align: middle;
+}
+
+.Conteiner {
+	margin-right: auto;
+	margin-left: auto;
+	width: 1170px;
+	display: block;
+}
+.section1 {
+	background-color: #0525b3;
+	height: 520px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+div h1 {
+	color: #e6e6e6;
+
+}
+
+section p {
+	text-align: center;
+}
+
+.div{
+	width: 1170px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.Conteiner2 {
+	width: 1170px;
+	margin-right: auto;
+	margin-left: auto;
+	display: inline-flex;
+}
+
+.Video {
+	width: 570px;
+	height: 340px;
+	background-color: white;
+	padding-top: 0px;
+}
+
+.section2 {
+	background-color: rgb(179, 171, 171);
+	height: 420px;
+}
+.section3 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 1170px;
+}
+
+.News {
+	width: 1170px;	
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.img {
+	display: inline-block;
+	margin-left: auto;
+	margin-bottom: auto;
+}
+.img1 {
+	display: inline-flex;
+	margin-left: 26px;
+	margin-bottom: auto;
+}
+
+.section4 {
+	padding: 0px;
+	height: 250px;
+}
+footer {
+	text-align: right;
+}
+
+.ForGeolab {
+	padding-top: 8px;
+}
